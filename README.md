@@ -80,10 +80,6 @@ Business Insights & Recommendations
 
 ### Screenshots
 
-
-<img width="958" height="444" alt="image" src="https://github.com/user-attachments/assets/...">
-
-
 <img width="958" height="444" alt="image" src="https://github.com/user-attachments/assets/b95e0005-06ff-4c3d-80bf-e270c9d3e591" />
 
 
@@ -100,6 +96,6 @@ Business Insights & Recommendations
 
 <img width="645" height="392" alt="image" src="https://github.com/user-attachments/assets/fa7bf372-8755-4eb4-82db-2fe8fe2788dc" />
 
-
+`````
 
 
