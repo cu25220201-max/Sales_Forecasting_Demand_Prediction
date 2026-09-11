@@ -139,7 +139,7 @@ Identify seasonal opportunities
 Reduce the risk of stock-outs
 
 ## 🔮 6-Month Sales Forecast
-
+````txt
 The project generates a 6-month future sales forecast based on historical monthly sales.
 
 Forecasting Approach
@@ -157,14 +157,7 @@ Fit Linear Trend
 Predict Future Periods
           ↓
 Generate 6-Month Forecast
-
-The dashboard displays:
-
-Historical Sales
-Forecast Sales
-Future Monthly Dates
-Forecast Trend
-
+````
 
 ## 💡 Business Recommendations
 
@@ -191,7 +184,7 @@ Businesses can use demand forecasts, supplier lead time, and safety-stock levels
 Forecasted sales should be compared with actual sales every month to evaluate forecast performance and improve future predictions.
 
 ## 🚀 Practical Implementation
-
+````txt
 The Streamlit application performs the complete dashboard workflow.
 
 The dashboard:
@@ -211,46 +204,10 @@ Identify Seasonal Patterns
 Generate 6-Month Forecast
        ↓
 Display Business Recommendations
-
-##📚 Skills Demonstrated
-Data Analytics
-Data Cleaning
-Data Preprocessing
-Exploratory Data Analysis
-Business Analysis
-KPI Development
-Trend Analysis
-Demand Analysis
-Forecasting
-Business Insight Generation
-Python
-Python
-Pandas
-NumPy
-Data Manipulation
-Data Aggregation
-Data Analysis
-SQL & MySQL
-SQL Querying
-Filtering
-Grouping
-Aggregation
-Business Analysis
-Database Management
-Data Visualization
-Plotly
-Matplotlib
-Interactive Charts
-Dashboard Design
-Dashboard Development
-Streamlit
-Interactive Filters
-KPI Cards
-Data Visualization
-Business Reporting
+````
 
 ## 📊 Project Outcome
-
+````txt
 This project demonstrates how raw retail sales data can be transformed into meaningful business insights through an end-to-end analytics workflow.
 
 The project combines:
@@ -267,10 +224,7 @@ Forecasting
 +
 Streamlit
 
-to support data-driven sales and demand planning.
-
-The final dashboard allows users to explore historical sales performance, understand seasonal demand, analyze products and categories, and view a six-month sales forecast.
-
+````
 ## 🔮 Future Scope
 
 The project can be further enhanced by:
