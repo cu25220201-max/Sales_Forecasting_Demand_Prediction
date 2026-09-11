@@ -78,3 +78,19 @@ Interactive Dashboard
       ↓
 Business Insights & Recommendations
 
+````
+
+#### Screenshots
+
+<img width="960" height="443" alt="image" src="https://github.com/user-attachments/assets/87bed6f1-8557-426c-9789-bd72e59db48f" />
+
+<img width="743" height="409" alt="image" src="https://github.com/user-attachments/assets/731f952d-1a32-4d99-a74b-e94539c67723" />
+
+<img width="643" height="421" alt="image" src="https://github.com/user-attachments/assets/8f5070dd-ee71-48ee-849c-bfb86aab6fb2" />
+
+<img width="716" height="419" alt="image" src="https://github.com/user-attachments/assets/27dfbf2b-a467-4bfa-8275-cde09755c632" />
+
+<img width="727" height="430" alt="image" src="https://github.com/user-attachments/assets/0690ac98-e551-45ab-b41f-46f9d7a11e08" />
+
+<img width="960" height="485" alt="image" src="https://github.com/user-attachments/assets/d30a2ca1-31f2-4036-8a37-180d773c2a79" />
+
